@@ -14,7 +14,7 @@ import glob
 
 ⚠️ **Make sure both are installed on your system** ⚠️
 
-Now simply download this repository and run the imagetypeconverter file.
+Now simply clone this repository and run the imagetypeconverter file.
 ```
 gh repo clone shubhamashish33/Image-Type-Converter
 ```
